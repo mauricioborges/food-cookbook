@@ -11,7 +11,11 @@ We are always happy for folk to help us out on this project.  Here are some ways
 ### New Features
 * Feature Requests - Open a task [on Asana](https://app.asana.com/0/26205423318124/26205423318109) with your request. Link your PRs to Asana like [that](https://asana.com/apps/github).
 * Feature Implementations - Even better than both of these is an implementation.  Simply fork our repo, create a branch (named after the Task "New Feature" you created earlier), implement it yourself and submit a Pull Request.
-    
+
+### Bugs
+
+Leave the bugs alone, they are part of the cooking process
+
 ## Our Git Protocol
 
 If you want to make a change to the code here, here's the protocol we follow (you need a Github account in order to do this):
